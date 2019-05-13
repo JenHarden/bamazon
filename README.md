@@ -1,4 +1,4 @@
-#Bamazon
+# Bamazon
 ### Overview
 ```
 An Amazon-like storefront application that will take in orders from customers and then deplete stock from 
