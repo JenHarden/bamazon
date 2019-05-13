@@ -50,6 +50,6 @@ alerting you to how much the order will cost.
 ![image](/images/successful_sale.png)
 If the sale was successful, then the inventory will show the change:
 * Pre-sale inventory:
-![image](presale_for_desk.png)
+![image](/images/presale_for_desk.png)
 * Post-sale inventory changed:
-![image](postsale_for_desk.png)
+![image](images/postsale_for_desk.png)
